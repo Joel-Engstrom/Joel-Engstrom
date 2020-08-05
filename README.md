@@ -15,25 +15,28 @@
 
 <br />
 
-### Språk och Verktyg:
+### Språk och Verktyg 🛠:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="C#" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
-<img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PHP" width="26px" src="https://camo.githubusercontent.com/f7ca3c85e85a1a5b05ef1583af3921e6f4aea77e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="DotNet" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+<img align="left" alt="jQuery" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" />
+<img align="left" alt="PHP" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="MySQL" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
+<img align="left" alt="Trello" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" />
 
 <br />
 <br />
