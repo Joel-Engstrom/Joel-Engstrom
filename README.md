@@ -56,7 +56,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Engstrom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Engstrom)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://lokomlan.se
 [twitter]: https://twitter.com/codeSTACKr
