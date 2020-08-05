@@ -15,11 +15,18 @@
 
 <br />
 
-### Språk och Verktyg 🛠:
+### Verktyg och Språk 🛠:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
+<img align="left" alt="Trello" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" />
+
+<br />
+<br />
+
 <img align="left" alt="C#" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
 <img align="left" alt="DotNet" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" />
@@ -34,9 +41,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
-<img align="left" alt="Trello" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" />
 
 <br />
 <br />
@@ -44,6 +48,8 @@
 ---
 
 <img align="left" alt="Joels Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joel-Engstrom&show_icons=true&hide_border=true&theme=tokyonight" />
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Engstrom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
