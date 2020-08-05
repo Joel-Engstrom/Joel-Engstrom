@@ -25,8 +25,9 @@
 <img align="left" alt="Trello" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" />
 
 <br />
----
 <br />
+
+---
 
 <img align="left" alt="C#" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
@@ -51,6 +52,8 @@
 <img align="left" alt="Joels Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joel-Engstrom&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br />
+<br />
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Engstrom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
