@@ -45,7 +45,7 @@
 
 <img align="left" alt="Joels Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joel-Engstrom&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Engstrom)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Engstrom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://lokomlan.se
 [twitter]: https://twitter.com/codeSTACKr
