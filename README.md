@@ -1,7 +1,7 @@
 ### Vem fan är som dig?, Jag är i alla fall Joel - aka [Bengan][website] 👋
 
 ## Jag är en Student, Programmerare, Utvecklare och 3D Modellerare!
-- 🔭 Jag arbetare ofta med sidoprojekt!
+- 🔭 Jag arbetar ofta med sidoprojekt!
 - 🌱 Försöker alltid lära mig nya språk och erfarenheter 👀
 - ⚡ Fun fact: Gillar musik produktion och att spela gitarr! 🎸
 
