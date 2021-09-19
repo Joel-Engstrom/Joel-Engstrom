@@ -1,11 +1,6 @@
 ### Vem fan är som dig?, Jag är i alla fall Joel - aka [Bengan][website] 👋
 
-## Jag är en Student, Programmerare, Utvecklare och 3D Modellerare!
-- 🔭 Jag arbetar ofta med sidoprojekt!
-- 🌱 Försöker alltid lära mig nya språk och erfarenheter 👀
-- ⚡ Fun fact: Gillar musik produktion och att spela gitarr! 🎸
-
-### Stalka mig! (Det är kul😉):
+### Social Media
 
 [<img align="left" alt="Lokomlan.se" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Joel Engström | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,7 +13,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/photosCancel changeshop/photoshop-plain.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
 <img align="left" alt="Trello" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain.svg" />
