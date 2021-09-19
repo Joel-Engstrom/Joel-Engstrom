@@ -16,7 +16,14 @@
 <img align="left" alt="Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg" />
-<img align="left" alt="Trello" width="26px" src="https://simpleicons.org/icons/trello.svg" />
+<img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" />
+<img align="left" alt="IntelliJ" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />
+<img align="left" alt="Clion" width="26px" src="https://simpleicons.org/icons/clion.svg" />
+<img align="left" alt="Rider" width="26px" src="https://simpleicons.org/icons/rider.svg" />
+<img align="left" alt="PhpStorm" width="26px" src="https://simpleicons.org/icons/phpstorm.svg" />
+<img align="left" alt="WebStorm" width="26px" src="https://simpleicons.org/icons/webstorm.svg" />
+<img align="left" alt="PyCharm" width="26px" src="https://simpleicons.org/icons/pycharm.svg" />
+<img align="left" alt="WebStorm" width="26px" src="https://simpleicons.org/icons/webstorm.svg" />
 
 <br />
 <br />
